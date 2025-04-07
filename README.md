@@ -1,6 +1,6 @@
 # MERN Stack CRUD Operations
 
-This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It's based on a tutorial that guides you through building a simple application to manage user data.
+This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It guides you through building a simple application to manage user data.
 
 ## Project Structure
 
